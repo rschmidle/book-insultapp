@@ -1,4 +1,4 @@
-﻿package org.openshift;
+package org.openshift;
 
 import java.util.HashMap;
 import javax.enterprise.context.RequestScoped;
